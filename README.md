@@ -12,4 +12,4 @@ This is a good example of [my code](https://gist.github.com/kumaparajita104/ff27
 
 ### Colab Example
 
-this is the [notebook]
+this is the [notebook](https://github.com/kumaparajita104/technical-discussion/blob/main/technical_docs.ipynb)
